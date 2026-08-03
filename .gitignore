@@ -1,0 +1,5 @@
+# 참여자 자료 및 파생물은 커밋하지 않습니다 (CLAUDE.md §7)
+data/
+runs/
+__pycache__/
+*.pyc

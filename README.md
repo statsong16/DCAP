@@ -46,7 +46,8 @@ make demo           # 합성 데이터로 01번 실험 전체 파이프라인
 | # | 주제 | 상태 | 요약 |
 |---|---|---|---|
 | 01 | [마이크로바이옴 토큰화](experiments/01-microbiome-tokenization/) | 합성 데이터 검증 완료 | 마스킹 복원 사전학습 · taxa↔pathway 대조정렬 · 계통수 어텐션 마스크 |
-| 02 | 영상 지표 토큰화 (예정) | — | OASIS-3 FreeSurfer/PUP 파생 지표 기반 |
+| 02 | [다중오믹스 층위화](experiments/02-multiomics-stratification/) | 합성 데이터 검증 완료 | microbiome·metabolome·proteome 결합 군집 → 메타데이터 예측 · 피험자 단위 분할 누수 대조 |
+| 03 | 영상 지표 토큰화 (예정) | — | OASIS-3 FreeSurfer/PUP 파생 지표 기반 |
 
 ---
 
