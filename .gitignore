@@ -1,5 +1,17 @@
-# 참여자 자료 및 파생물은 커밋하지 않습니다 (CLAUDE.md §7)
+# 참여자 자료와 그 파생물은 커밋하지 않습니다 (CLAUDE.md §7)
+
+# 원자료
+*.RData
+*.rda
+*.rds
 data/
+
+# 실행 산출물
 runs/
+
+# multi_omics_analysis.R 이 저장소 루트에 쓰는 그림
+figure1_cohort_stats.png
+figure2_proteome_pca.png
+
 __pycache__/
 *.pyc

@@ -39,6 +39,10 @@ make demo           # 합성 데이터로 01번 실험 전체 파이프라인
 실제 데이터로 돌리려면 각 실험 README의 "데이터 접근" 절을 참고하세요.
 `data/` 는 git-ignore 되어 있습니다.
 
+`multi_omics_set.RData` 는 저장소에 포함되지 않습니다. `multi_omics_analysis.R` 과
+실험 02 를 실제 자료로 돌리려면 그 파일을 저장소 루트에 직접 두세요.
+`.gitignore` 가 `*.RData` 를 무시하므로 실수로 커밋될 일은 없습니다.
+
 ---
 
 ## 실험 목록
