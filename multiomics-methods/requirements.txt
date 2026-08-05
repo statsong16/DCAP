@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.11
+matplotlib>=3.7
+# RData 를 직접 읽을 때만 필요 (scripts/export_rdata.py)
+rdata>=1.1
+# 테스트
+pytest>=7.4
